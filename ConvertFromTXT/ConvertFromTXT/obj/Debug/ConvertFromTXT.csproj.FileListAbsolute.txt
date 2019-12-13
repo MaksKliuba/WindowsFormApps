@@ -1,0 +1,14 @@
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\bin\Debug\ConvertFromTXT.exe.config
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\bin\Debug\ConvertFromTXT.exe
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\bin\Debug\ConvertFromTXT.pdb
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.csprojAssemblyReference.cache
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.Form1.resources
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.Properties.Resources.resources
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.csproj.GenerateResource.cache
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.csproj.CoreCompileInputs.cache
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.exe
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.pdb
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\bin\Debug\ConvertFromTXT.exe.manifest
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\bin\Debug\ConvertFromTXT.application
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.exe.manifest
+D:\Robots\Ruby\ConvertFromTXT\ConvertFromTXT\obj\Debug\ConvertFromTXT.application
